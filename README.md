@@ -12,12 +12,9 @@ Une application web interactive affichant un **ensemble de drapeaux de pays**, a
 
 <br>
 
----
+<img src="https://github.com/Mika73100/API_drapeaux_REACT_SASS/blob/master/public/1637.png" alt="aperçu de l'application" width="600"/>
 
-## 👨‍🎨 Customing 🔝
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
 ---
 
@@ -30,14 +27,14 @@ Une application web interactive affichant un **ensemble de drapeaux de pays**, a
 
 ---
 
-🙌 Remerciements
-Merci pour votre visite ! Ce projet est un exercice personnel dans le cadre de mon apprentissage du développement web.
-N’hésitez pas à me faire un retour, forker le projet ou y contribuer !
+## 📦 Installation
 
-<div align="center">
-⭐ Un petit like sur le repo fait toujours plaisir ! ⭐
+```bash
+git clone https://github.com/Mika73100/API_drapeaux_REACT_SASS.git
+cd API_drapeaux_REACT_SASS
+npm install
+npm start
 
-</div>
 
 <div align="center">
 
