@@ -34,3 +34,16 @@ cd API_drapeaux_REACT_SASS
 npm install
 npm start
 
+---
+
+## 🙌 Remerciements
+
+Merci pour votre visite ! Ce projet est un **exercice personnel** dans le cadre de mon apprentissage du **développement web**.  
+N’hésitez pas à me faire un retour, forker le projet ou y contribuer !
+
+<div align="center">
+
+⭐ *Un petit like sur le repo fait toujours plaisir !* ⭐
+
+</div>
+
