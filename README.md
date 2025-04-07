@@ -7,6 +7,7 @@
 ---
 
 ### 🌍 Description du projet
+
 Une application web interactive affichant un **ensemble de drapeaux de pays**, avec une **barre de navigation** permettant de les filtrer **en fonction des continents**.
 
 <br>
@@ -34,16 +35,11 @@ cd API_drapeaux_REACT_SASS
 npm install
 npm start
 
----
-
-## 🙌 Remerciements
-
-Merci pour votre visite ! Ce projet est un **exercice personnel** dans le cadre de mon apprentissage du **développement web**.  
+🙌 Remerciements
+Merci pour votre visite ! Ce projet est un exercice personnel dans le cadre de mon apprentissage du développement web.
 N’hésitez pas à me faire un retour, forker le projet ou y contribuer !
 
 <div align="center">
+⭐ Un petit like sur le repo fait toujours plaisir ! ⭐
 
-⭐ *Un petit like sur le repo fait toujours plaisir !* ⭐
-
-</div>
-
+</div> ```
